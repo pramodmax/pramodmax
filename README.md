@@ -35,7 +35,6 @@ I specialize in bridging the gap between cutting-edge AI platforms and enterpris
 ### AI / Machine Learning
 ![OpenShift AI](https://img.shields.io/badge/Red%20Hat%20OpenShift%20AI-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -83,36 +82,17 @@ I specialize in bridging the gap between cutting-edge AI platforms and enterpris
 | 🏅 | **Red Hat OpenShift AI** — Administration, ML Model Creation & Deployment | Red Hat | 2024 |
 | 🏅 | **Python Programming** with Red Hat | Red Hat | 2024 |
 | 🏅 | **GitOps Fundamentals** & GitOps at Scale | Codefresh | 2024 |
-| 🏅 | **Generative AI Fundamentals** | Databricks | 2025 |
 | 🎓 | Post Graduate Program in **AI & Machine Learning** | Caltech | 2025 |
 
 ---
 
-## GitHub Stats
+## Education
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramodmax&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=EE0000&icon_color=EE0000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodmax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EE0000"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pramodmax&theme=radical&hide_border=true&background=0D1117&ring=EE0000&fire=EE0000&currStreakLabel=EE0000)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Career Journey
-
-```
-2024 - Present  │  Principal Architect          @ Red Hat          │ AI/ML + Cloud-Native
-2022 - 2024     │  Principal Consultant         @ Red Hat          │ OpenShift + Integration
-2019 - 2022     │  Associate Principal Consultant @ Red Hat        │ Middleware + Automation
-2017 - 2019     │  Senior Middleware Architect  @ Red Hat          │ Fuse + OpenShift + EAP
-2016 - 2017     │  Product SME (Fuse/AMQ)       @ NCS Group        │ Telecom (Optus)
-2015 - 2016     │  Integration Architect        @ Wipro            │ Energy (Endeavour Energy)
-2009 - 2014     │  Architect / Senior Associate @ Sapient          │ Middleware + SOA
-2007 - 2009     │  Software Engineer            @ Sapient          │ Java + Integration
-```
+| | Degree | Institution | Year |
+|--|--------|------------|------|
+| 🎓 | Post Graduate Program in **Artificial Intelligence & Machine Learning** | Caltech | 2025 |
+| 🎓 | **Masters of Information Technology** — Professional | Deakin University, Australia | 2014 – 2016 |
+| 🎓 | **Bachelor of Engineering** | Vivekananda Institute of Technology | 2003 – 2007 |
 
 ---
 
