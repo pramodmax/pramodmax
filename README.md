@@ -7,6 +7,10 @@
 [![Location](https://img.shields.io/badge/📍-Sydney%2C%20Australia-red?style=for-the-badge)](https://www.redhat.com)
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-Principal%20Architect-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EE0000&center=true&vCenter=true&width=680&lines=Principal+Architect+%40+Red+Hat;AI%2FML+Platform+Engineer;Cloud-Native+%26+OpenShift+Expert;Event+Streaming+%26+Integration+Architect;17%2B+Years+of+Enterprise+Experience" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -32,42 +36,32 @@ I specialize in bridging the gap between cutting-edge AI platforms and enterpris
 
 ## Tech Stack
 
-### AI / Machine Learning
-![OpenShift AI](https://img.shields.io/badge/Red%20Hat%20OpenShift%20AI-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<div align="center">
 
-### Cloud-Native & Platform Engineering
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**Platform & Infrastructure**
+
+[![Platform Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,ansible,jenkins,git,github,helm&perline=8)](https://skillicons.dev)
+
+**Languages & Frameworks**
+
+[![Language Skills](https://skillicons.dev/icons?i=java,python,spring,maven,bash,jupyter&perline=8)](https://skillicons.dev)
+
+**Databases**
+
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=8)](https://skillicons.dev)
+
+</div>
+
+**Specialized & Enterprise**
+
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-
-### GitOps & DevOps
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Event Streaming & Integration
+![OpenShift AI](https://img.shields.io/badge/Red%20Hat%20OpenShift%20AI-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-E91E63?style=for-the-badge&logo=apache&logoColor=white)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![IBM MQ](https://img.shields.io/badge/IBM%20MQ-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-
-### Application Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
